@@ -1,0 +1,24 @@
+{
+  "name": "wensday-bot",
+  "version": "1.0.0",
+  "description": "It's wensday my dudes",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yopaman/wensday-bot.git"
+  },
+  "keywords": [
+    "wensday",
+    "my",
+    "dudes"
+  ],
+  "author": "Yopaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yopaman/wensday-bot/issues"
+  },
+  "homepage": "https://github.com/Yopaman/wensday-bot#readme"
+}
